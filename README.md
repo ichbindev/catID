@@ -4,4 +4,4 @@ I wanted to learn more about machine learning, computer vision, convolutional ne
 
 The first model I trained worked pretty well considering I only used 250 pictures of each cat. I'm currently adding more data, as well as adding a third category for when neither cat is present.
 
-![cat classification](https://i.imgur.com/vck1DiQ.mp4)
+[Cat classification at work, gif coming soon](https://i.imgur.com/vck1DiQ.mp4)
